@@ -150,3 +150,4 @@ CREATE TABLE order_reviews (
     FOREIGN KEY (order_id)
     REFERENCES orders(order_id)
 );
+
