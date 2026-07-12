@@ -1,7 +1,7 @@
 -- ============================================================
 -- Project : E-Commerce Sales & Customer Analytics
--- File    : 02_create_tables.sql
--- Database: ecommerce_sales
+-- File    : 02_create_table.sql
+-- Purpose : Create all tables (Primary Keys only)
 -- ============================================================
 
 USE ecommerce_sales;
@@ -78,11 +78,7 @@ CREATE TABLE orders (
     order_approved_at DATETIME,
     order_delivered_carrier_date DATETIME,
     order_delivered_customer_date DATETIME,
-    order_estimated_delivery_date DATETIME,
-
-    CONSTRAINT fk_orders_customer
-    FOREIGN KEY (customer_id)
-    REFERENCES customers(customer_id)
+    order_estimated_delivery_date DATETIME
 );
 
 -- ============================================================
@@ -98,19 +94,7 @@ CREATE TABLE order_items (
     price DECIMAL(10,2),
     freight_value DECIMAL(10,2),
 
-    PRIMARY KEY (order_id, order_item_id),
-
-    CONSTRAINT fk_orderitems_orders
-    FOREIGN KEY (order_id)
-    REFERENCES orders(order_id),
-
-    CONSTRAINT fk_orderitems_products
-    FOREIGN KEY (product_id)
-    REFERENCES products(product_id),
-
-    CONSTRAINT fk_orderitems_sellers
-    FOREIGN KEY (seller_id)
-    REFERENCES sellers(seller_id)
+    PRIMARY KEY (order_id, order_item_id)
 );
 
 -- ============================================================
@@ -124,11 +108,7 @@ CREATE TABLE order_payments (
     payment_installments INT,
     payment_value DECIMAL(10,2),
 
-    PRIMARY KEY (order_id, payment_sequential),
-
-    CONSTRAINT fk_payments_orders
-    FOREIGN KEY (order_id)
-    REFERENCES orders(order_id)
+    PRIMARY KEY (order_id, payment_sequential)
 );
 
 -- ============================================================
@@ -142,12 +122,5 @@ CREATE TABLE order_reviews (
     review_comment_title TEXT,
     review_comment_message TEXT,
     review_creation_date DATETIME,
-    review_answer_timestamp DATETIME,
-
-    PRIMARY KEY (review_id),
-
-    CONSTRAINT fk_reviews_orders
-    FOREIGN KEY (order_id)
-    REFERENCES orders(order_id)
+    review_answer_timestamp DATETIME
 );
-
