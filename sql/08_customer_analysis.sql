@@ -222,3 +222,47 @@ SELECT
     COUNT(*) AS total_customers
 FROM customer_value
 GROUP BY customer_segment;
+
+
+/*
+============================================================
+Business Insights
+============================================================
+
+1. The marketplace serves 96,096 unique customers,
+   demonstrating a large and diverse customer base.
+
+2. Customer distribution is highly concentrated in the
+   southeastern region of Brazil, with São Paulo (SP)
+   having the largest customer base.
+
+3. São Paulo city is the leading customer market,
+   followed by Rio de Janeiro and Belo Horizonte.
+
+4. Customers place an average of only 1.03 orders,
+   indicating low repeat purchase behavior.
+
+5. Approximately 97% of customers are one-time buyers,
+   while only 3% return for additional purchases,
+   highlighting an opportunity to improve retention.
+
+6. A small group of customers generates exceptionally
+   high lifetime value, making them ideal candidates
+   for loyalty and retention programs.
+
+7. Customer acquisition grew consistently throughout
+   2017 and early 2018, reflecting rapid expansion of
+   the customer base.
+
+8. São Paulo contributes the highest customer revenue,
+   followed by Rio de Janeiro and Minas Gerais.
+
+9. Customer satisfaction remains consistently high
+   across most states, with average review scores
+   close to 4 out of 5.
+
+10. Most customers belong to the Low Value segment,
+    while only a small percentage are classified as
+    High Value customers, emphasizing the importance
+    of customer retention and upselling strategies.
+*/

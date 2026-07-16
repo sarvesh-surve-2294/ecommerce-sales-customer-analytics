@@ -166,3 +166,42 @@ SELECT
     ) AS delayed_delivery_percentage
 FROM orders
 WHERE order_status='delivered';
+
+
+/*
+============================================================
+Business Insights
+============================================================
+
+1. The business generated a total revenue of approximately
+   16 million across 99,441 orders, with an average order
+   value of 154.10.
+
+2. Revenue and order volume increased steadily throughout
+   2017 and reached their highest levels during early 2018,
+   indicating strong business growth.
+
+3. Delivered orders contributed the vast majority of revenue,
+   while cancelled and unavailable orders accounted for only
+   a small portion of total sales.
+
+4. Credit Card is the dominant payment method, generating
+   the highest revenue and accounting for most transactions.
+
+5. São Paulo (SP) is the highest revenue-generating state,
+   highlighting it as the company's primary market.
+
+6. Average freight cost is approximately 20, while the
+   highest freight charge exceeds 400, showing significant
+   variation in shipping costs.
+
+7. Revenue increased significantly from 2016 to 2018,
+   reflecting rapid expansion of the business.
+
+8. The highest-value order exceeded 13,600, indicating the
+   presence of premium or bulk purchases.
+
+9. Around 8.11% of delivered orders were delivered later
+   than the estimated delivery date, suggesting overall
+   strong delivery performance with room for improvement.
+*/
