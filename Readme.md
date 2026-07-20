@@ -253,7 +253,7 @@ The Power BI dashboard includes:
 - Product Analytics
 - RFM & Business Insights
 
-> Dashboard screenshots will be added soon.
+> Dashboard screenshots will be added soon
 
 ---
 
