@@ -1,11 +1,5 @@
 # 🛒 E-Commerce Sales & Customer Analytics Dashboard
 
-![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 An end-to-end **Data Analytics project** built using **Python, MySQL, SQL, and Power BI** to analyze sales performance, customer behavior, product trends, and business KPIs from the Olist Brazilian E-Commerce dataset.
 
 The project demonstrates a complete analytics workflow; from raw data exploration and database creation to SQL-based business analysis and interactive Power BI dashboards.
