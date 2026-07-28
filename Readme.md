@@ -28,7 +28,7 @@ This project aims to answer key business questions such as:
 
 ### Sales Performance Analytics
 
-![Customer Dashboard]((https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011142.png))
+![Customer Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011142.png)
 
 ### Customer & Delivery Analytics
 
@@ -36,7 +36,7 @@ This project aims to answer key business questions such as:
 
 ### Product & Seller Analytics
 
-![Business Dashboard]([images/rfm_business_insights.png](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011220.png))
+![Business Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011220.png)
 
 ---
 
