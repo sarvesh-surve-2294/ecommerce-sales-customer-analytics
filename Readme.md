@@ -22,23 +22,21 @@ This project aims to answer key business questions such as:
 
 # 📊 Dashboard Preview
 
-> *(Replace these placeholders with your dashboard screenshots after uploading them.)*
-
 ### Executive Overview
 
 ![Executive Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011119.png)
 
 ### Customer Analytics
 
-![Customer Dashboard](images/customer_analytics.png)
+![Customer Dashboard]([images/customer_analytics.png](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011142.png))
 
 ### Product Analytics
 
-![Product Dashboard](images/product_analytics.png)
+![Product Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011159.png)
 
 ### RFM & Business Insights
 
-![Business Dashboard](images/rfm_business_insights.png)
+![Business Dashboard]([images/rfm_business_insights.png](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011220.png))
 
 ---
 
