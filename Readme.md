@@ -8,7 +8,7 @@
 
 An end-to-end **Data Analytics project** built using **Python, MySQL, SQL, and Power BI** to analyze sales performance, customer behavior, product trends, and business KPIs from the Olist Brazilian E-Commerce dataset.
 
-The project demonstrates a complete analytics workflow—from raw data exploration and database creation to SQL-based business analysis and interactive Power BI dashboards.
+The project demonstrates a complete analytics workflow; from raw data exploration and database creation to SQL-based business analysis and interactive Power BI dashboards.
 
 ---
 
