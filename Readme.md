@@ -197,36 +197,82 @@ Customer segmentation into:
 
 ---
 
-# 📊 Power BI Dashboard
+# 📈 Power BI Dashboard
 
-The dashboard consists of four interactive pages:
+The project includes a **4-page interactive Power BI dashboard** designed to provide actionable business insights across sales, customers, products, and sellers.
 
-### 📌 Executive Overview
-- Revenue KPIs
-- Monthly Sales Trend
-- Orders Trend
-- Revenue by State
-- Payment Method Distribution
+---
 
-### 👥 Customer Analytics
-- Customer Distribution
-- Customer Acquisition
-- Top Customers
-- Customer Segmentation
+## 📊 Dashboard 1 – Executive Summary
 
-### 📦 Product Analytics
-- Product Categories
-- Top Sellers
-- Revenue by Category
-- Product Ratings
-- Freight Analysis
+**Key Features**
 
-### 🎯 RFM & Business Insights
-- Customer Segments
-- Revenue Contribution
-- Monthly Growth
-- Delivery Performance
-- Business KPIs
+- Revenue, Orders, Customers, Average Order Value
+- Average Review Score
+- Average Delivery Days
+- Top States by Revenue
+- Monthly Revenue & Orders Trend
+- Top Product Categories by Revenue
+- Payment Type Distribution
+- Order Status Distribution
+
+---
+
+## 📈 Dashboard 2 – Sales Performance Analysis
+
+**Key Features**
+
+- Top Product Categories by Revenue
+- Monthly Revenue Trend
+- Total Products Sold
+- Average Product Price
+- Total Freight Cost
+- Average Items per Order
+- Top Sellers by Revenue
+- Top Categories by Quantity Sold
+- Categories by Average Product Price
+
+---
+
+## 🚚 Dashboard 3 – Customer & Delivery Analysis
+
+**Key Features**
+
+- Top States by Orders
+- Delivered & Cancelled Orders
+- Average Delivery Days
+- Average Review Score
+- Monthly Delivery Performance
+- Monthly Quantity Sold
+- Review Score Distribution
+
+---
+
+## 📦 Dashboard 4 – Product & Seller Insights
+
+**Key Features**
+
+- Total Sellers
+- Total Product Categories
+- Average Items per Order
+- Average Freight Cost
+- Monthly Products Sold
+- Top Sellers by Revenue
+- Top Sellers by Orders
+- Top Categories by Revenue
+- Sales by Payment Type
+
+---
+
+### Interactive Features
+
+The dashboard includes interactive filters for:
+
+- Year
+- Month
+- State
+
+Users can filter the entire report dynamically to analyze trends across different time periods and locations.
 
 ---
 
