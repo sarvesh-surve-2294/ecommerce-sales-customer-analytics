@@ -26,7 +26,7 @@ This project aims to answer key business questions such as:
 
 ### Executive Overview
 
-![Executive Dashboard](images/executive_overview.png)
+![Executive Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011119.png)
 
 ### Customer Analytics
 
