@@ -1,14 +1,8 @@
 # 🛒 E-Commerce Sales & Customer Analytics Dashboard
 
-![Python](https://img.shields.io/badge/Python-Pandas-blue?logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 An end-to-end **Data Analytics project** built using **Python, MySQL, SQL, and Power BI** to analyze sales performance, customer behavior, product trends, and business KPIs from the Olist Brazilian E-Commerce dataset.
 
-The project demonstrates a complete analytics workflow—from raw data exploration and database creation to SQL-based business analysis and interactive Power BI dashboards.
+The project demonstrates a complete analytics workflow; from raw data exploration and database creation to SQL-based business analysis and interactive Power BI dashboards.
 
 ---
 
@@ -28,23 +22,21 @@ This project aims to answer key business questions such as:
 
 # 📊 Dashboard Preview
 
-> *(Replace these placeholders with your dashboard screenshots after uploading them.)*
-
 ### Executive Overview
 
-![Executive Dashboard](images/executive_overview.png)
+![Executive Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011119.png)
 
-### Customer Analytics
+### Sales Performance Analytics
 
-![Customer Dashboard](images/customer_analytics.png)
+![Customer Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011142.png)
 
-### Product Analytics
+### Customer & Delivery Analytics
 
-![Product Dashboard](images/product_analytics.png)
+![Product Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011159.png)
 
-### RFM & Business Insights
+### Product & Seller Analytics
 
-![Business Dashboard](images/rfm_business_insights.png)
+![Business Dashboard](https://github.com/sarvesh-surve-2294/ecommerce-sales-customer-analytics/blob/main/images/Screenshot%202026-07-28%20011220.png)
 
 ---
 
@@ -205,36 +197,82 @@ Customer segmentation into:
 
 ---
 
-# 📊 Power BI Dashboard
+# 📈 Power BI Dashboard
 
-The dashboard consists of four interactive pages:
+The project includes a **4-page interactive Power BI dashboard** designed to provide actionable business insights across sales, customers, products, and sellers.
 
-### 📌 Executive Overview
-- Revenue KPIs
-- Monthly Sales Trend
-- Orders Trend
-- Revenue by State
-- Payment Method Distribution
+---
 
-### 👥 Customer Analytics
-- Customer Distribution
-- Customer Acquisition
-- Top Customers
-- Customer Segmentation
+## 📊 Dashboard 1 – Executive Summary
 
-### 📦 Product Analytics
-- Product Categories
-- Top Sellers
-- Revenue by Category
-- Product Ratings
-- Freight Analysis
+**Key Features**
 
-### 🎯 RFM & Business Insights
-- Customer Segments
-- Revenue Contribution
-- Monthly Growth
-- Delivery Performance
-- Business KPIs
+- Revenue, Orders, Customers, Average Order Value
+- Average Review Score
+- Average Delivery Days
+- Top States by Revenue
+- Monthly Revenue & Orders Trend
+- Top Product Categories by Revenue
+- Payment Type Distribution
+- Order Status Distribution
+
+---
+
+## 📈 Dashboard 2 – Sales Performance Analysis
+
+**Key Features**
+
+- Top Product Categories by Revenue
+- Monthly Revenue Trend
+- Total Products Sold
+- Average Product Price
+- Total Freight Cost
+- Average Items per Order
+- Top Sellers by Revenue
+- Top Categories by Quantity Sold
+- Categories by Average Product Price
+
+---
+
+## 🚚 Dashboard 3 – Customer & Delivery Analysis
+
+**Key Features**
+
+- Top States by Orders
+- Delivered & Cancelled Orders
+- Average Delivery Days
+- Average Review Score
+- Monthly Delivery Performance
+- Monthly Quantity Sold
+- Review Score Distribution
+
+---
+
+## 📦 Dashboard 4 – Product & Seller Insights
+
+**Key Features**
+
+- Total Sellers
+- Total Product Categories
+- Average Items per Order
+- Average Freight Cost
+- Monthly Products Sold
+- Top Sellers by Revenue
+- Top Sellers by Orders
+- Top Categories by Revenue
+- Sales by Payment Type
+
+---
+
+### Interactive Features
+
+The dashboard includes interactive filters for:
+
+- Year
+- Month
+- State
+
+Users can filter the entire report dynamically to analyze trends across different time periods and locations.
 
 ---
 
